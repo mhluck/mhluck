@@ -1,5 +1,5 @@
 <!-- ## Hello 👋, I'm Mohammad Luqman Hakim  -->
-![mhluck](img/tumbnail.png)
+![mhluck](img/tumbnailUK.png)
 <h2 align="left">Hey 👋 What's up?</h2>
 
 ###
